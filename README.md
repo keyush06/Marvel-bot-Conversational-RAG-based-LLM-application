@@ -12,3 +12,7 @@ Choose your models from the dropdown after selecting the model ype: -
 
 ![image](https://github.com/user-attachments/assets/e45112a4-122d-4c9c-a8f5-158e7d92fe01)
 
+
+*Application Functionality*
+
+![image](https://github.com/user-attachments/assets/8cd7bea7-1f99-4ce9-9ce5-300f3edeb365)
